@@ -50,4 +50,14 @@ O banco de dados é criado automaticamente na primeira execução.
 
 ## 📸 Screenshots
 
-<img width="1355" height="695" alt="image" src="https://github.com/user-attachments/assets/18db8352-a79f-4ee7-add7-537c30f40331" />
+### Tela Principal
+<img width="978" height="685" alt="image" src="https://github.com/user-attachments/assets/d22f0301-f192-48db-878f-99fc9851270f" />
+
+### Cadastro de Clientes
+<img width="781" height="592" alt="image" src="https://github.com/user-attachments/assets/2e4032f5-d3e6-4e2e-8de9-8b42c758a26e" />
+
+### Registro de Vendas
+<img width="874" height="581" alt="image" src="https://github.com/user-attachments/assets/18c01e74-b97e-4c3c-9382-942758329804" />
+
+
+
